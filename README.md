@@ -1,7 +1,8 @@
 # DE32-4th-team3
 
 ## A. Python 기반 API Java로 변경하기
-- https://github.com/DE32-final-3team/4th-spring
+- https://github.com/DE32-final-team3/4th-spring
+- https://github.com/DE32-final-team3/4th-stream
 
 ## B. 최종 프로젝트를 위한 빌드업
 - 프로젝트 주제 선정 회의 진행
